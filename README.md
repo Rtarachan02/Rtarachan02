@@ -13,3 +13,29 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtarachan02&show_icons=true&locale=en&layout=compact" alt="rtarachan02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtarachan02&" alt="rtarachan02" /></p>
+
+
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandanck22&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
+
