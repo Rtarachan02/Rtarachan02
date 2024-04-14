@@ -14,9 +14,6 @@
 - 💬 Ask me about **DSA, MERN , HTML, CSS and JS**
 
 - 📫 How to reach me **ranatarachan02@gmail.com**
-
-- 📄 Know about my experiences [tarachandrana.onrender.com](tarachandrana.onrender.com)
-
 - ⚡ Fun fact **I think I am funny and enthusiastic.**
 
 <h3 align="left">Connect with me:</h3>
