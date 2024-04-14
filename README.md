@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [tarachandrana.onrender.com](tarachandrana.onrender.com)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Rtarachan02?tab=repositories)
 
 - 💬 Ask me about **DSA, MERN , HTML, CSS and JS**
 
