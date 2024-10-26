@@ -1,7 +1,7 @@
 ![Portfolio](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Tarachand Rana</h1>
-<h3 align="center">A passionate Software Engineer and AI/ML enthusiast  Studying @NIT Warangal Telengana.</h3>
+<h3 align="center">An aspiring Software Engineer and AI/ML enthusiast  Studying @NIT Warangal Telengana.</h3>
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -33,7 +33,7 @@
   
   <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One" alt="LeetCode Stats">
   
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rtarachan02&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="LeetCode Stats">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rtarachan02&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="LeetCode Stats" style="width: 100%; height: auto;">
   
 </td>
  </tr>
