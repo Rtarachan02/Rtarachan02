@@ -30,7 +30,9 @@
 </p>
 </td>
 <td valign="top">
+  <h3 align="left">Leetcode Statistics</h3>
   <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One&ext=heatmap" alt="LeetCode Stats">
+  
 </td>
  </tr>
 </table>
