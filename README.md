@@ -30,8 +30,10 @@
 </p>
 </td>
 <td valign="top">
-  <h3 align="left">Leetcode Statistics</h3>
-  <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One&ext=heatmap" alt="LeetCode Stats">
+  
+  <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One" alt="LeetCode Stats">
+  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rtarachan02&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="LeetCode Stats">
   
 </td>
  </tr>
