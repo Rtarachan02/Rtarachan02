@@ -1,7 +1,7 @@
 ![Portfolio](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">Hi 👋, I'm Tarachan Rana</h1>
-<h3 align="center">A passionate Fullstack Development Enthusiast  Studying @NIT Warangal Telengana.</h3>
+<h1 align="center">Hi 👋, I'm Tarachand Rana</h1>
+<h3 align="center">A passionate Software Engineer and AI/ML enthusiast  Studying @NIT Warangal Telengana.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtarachan02&label=Profile%20views&color=0e75b6&style=flat" alt="rtarachan02" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Cryptogram App](https://github.com/Rtarachan02/Cryptogram-App)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Advanced Machine Learning**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Rtarachan02?tab=repositories)
 
-- 💬 Ask me about **DSA, MERN , HTML, CSS and JS**
+- 💬 Ask me about **DSA,AI/ML , Python ,MERN and many more...**
 
 - 📫 How to reach me **ranatarachan02@gmail.com**
 - ⚡ Fun fact **I think I am funny and enthusiastic.**
