@@ -30,7 +30,7 @@
 </p>
 </td>
 <td valign="top">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One&ext=heatmap" alt="LeetCode Stats">
 </td>
  </tr>
 </table>
