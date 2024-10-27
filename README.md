@@ -31,10 +31,12 @@
 </p>
 </td>
 <td valign="top" width="50%">
-  
+  <a href="https://leetcode.com/Rtarachan02/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One" alt="LeetCode Stats">
-  
+  </a>
+  <a href="https://codeforces.com/profile/Rtarachan02" target="_blank">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rtarachan02&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="LeetCode Stats" style="width: 100%; height: auto;">
+  </a>
   
 </td>
  </tr>
