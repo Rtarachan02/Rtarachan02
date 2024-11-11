@@ -4,7 +4,7 @@
 <h3 align="center">An aspiring Software Engineer and AI/ML enthusiast  Studying @NIT Warangal Telengana.</h3>
 
 <table cellpadding="0">
-  <tr style="padding: 0">
+  <tr style="padding: 0"> 
 <td valign="top">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtarachan02&label=Profile%20views&color=0e75b6&style=flat" alt="rtarachan02" /> </p>
