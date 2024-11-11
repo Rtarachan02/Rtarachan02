@@ -38,6 +38,9 @@
   <a href="https://leetcode.com/Rtarachan02/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/Rtarachan02?theme=radical&font=Hammersmith%20One" alt="LeetCode Stats" style="width: 100%; height:100%;">
   </a>  
+   <a href="https://leetcode.com/Rtarachan02/" target="_blank">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranatarachan02" alt="LeetCode Stats" style="width: 100%; height:100%;">
+  </a>  
 </td>
  </tr>
 </table>
